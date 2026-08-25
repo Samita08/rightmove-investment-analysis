@@ -31,9 +31,25 @@ The project tests the durability of this model through financial forecasting, DC
 
 **Financial analysis:** financial statement analysis, operating KPI analysis, forecasting, DCF valuation, sensitivity analysis, scenario analysis and reverse DCF.
 
-**Visualisation** <img width="989" height="590" alt="download (1)" src="https://github.com/user-attachments/assets/8347f60a-e934-41f0-93c9-5fd0032b0aec" />
-<img width="989" height="590" alt="download (3)" src="https://github.com/user-attachments/assets/ad832783-3018-4518-8c1e-ba748a99b694" />
-<img width="989" height="590" alt="download (2)" src="https://github.com/user-attachments/assets/30ff5351-8be8-417a-a55e-7513c4931cab" />
+## Visualisations
+
+### Monetisation has driven growth
+
+![Agency ARPA versus Agency Branches](arpa_branches.png)
+
+Agency ARPA grew at 7.28% annually between 2021 and 2025, while Agency branches grew at only 0.42%, indicating that monetisation rather than customer expansion has been the primary historical growth driver.
+
+### Revenue and Free Cash Flow
+
+![Revenue and Free Cash Flow](revenue_fcf.png)
+
+Rightmove maintained strong cash generation alongside revenue growth, despite increased investment and some compression in free cash flow margins.
+
+### DCF Valuation Range
+
+![DCF Valuation Scenarios](valuation.png)
+
+The scenario analysis produces a valuation range of £4.25 to £8.87 per share, with a £6.40 base case and £6.37 consensus-adjusted valuation.
 ## Disclaimer
 
 This project was completed for educational and portfolio purposes and does not constitute investment advice.
