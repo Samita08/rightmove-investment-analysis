@@ -39,21 +39,22 @@ The project tests the durability of this model through financial forecasting, DC
 
 ### Monetisation has driven growth
 
-![Agency ARPA versus Agency Branches](download (1).png)
+![Agency ARPA versus Agency Branches](download%20(2).png)
 
 Agency ARPA grew at 7.28% annually between 2021 and 2025, while Agency branches grew at only 0.42%, indicating that monetisation rather than customer expansion has been the primary historical growth driver.
 
 ### Revenue and Free Cash Flow
 
-![Revenue and Free Cash Flow](download (2).png)
+![Revenue and Free Cash Flow](download%20(1).png)
 
 Rightmove maintained strong cash generation alongside revenue growth, despite increased investment and some compression in free cash flow margins.
 
 ### DCF Valuation Range
 
-![DCF Valuation Scenarios](download (3).png)
+![DCF Valuation Scenarios](download%20(3).png)
 
 The scenario analysis produces a valuation range of £4.25 to £8.87 per share, with a £6.40 base case and £6.37 consensus-adjusted valuation.
+
 ## Disclaimer
 
 This project was completed for educational and portfolio purposes and does not constitute investment advice.
