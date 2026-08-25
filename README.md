@@ -1,3 +1,6 @@
+<img width="989" height="590" alt="download (1)" src="https://github.com/user-attachments/assets/8347f60a-e934-41f0-93c9-5fd0032b0aec" />
+<img width="989" height="590" alt="download (3)" src="https://github.com/user-attachments/assets/ad832783-3018-4518-8c1e-ba748a99b694" />
+<img width="989" height="590" alt="download (2)" src="https://github.com/user-attachments/assets/30ff5351-8be8-417a-a55e-7513c4931cab" />
 [Rightmove_Investment_Report_pdf.pdf](https://github.com/user-attachments/files/31415324/Rightmove_Investment_Report_pdf.pdf)
 # Rightmove plc Investment Analysis
 
