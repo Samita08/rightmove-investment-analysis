@@ -1,5 +1,5 @@
 
-[Rightmove_Investment_Report_pdf.pdf](https://github.com/user-attachments/files/31415324/Rightmove_Investment_Report_pdf.pdf)
+[Rightmove_Investment_Report.pdf](https://github.com/user-attachments/files/31415324/Rightmove_Investment_Report.pdf)
 # Rightmove plc Investment Analysis
 
 Independent investment analysis of Rightmove plc (LSE: RMV), combining historical financial analysis, operating KPI decomposition, financial forecasting and DCF valuation.
