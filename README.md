@@ -20,7 +20,7 @@ Five years of Rightmove financial and operating data were collected from company
 
 ## Investment Report
 
-📄 **[Read the full investment report](./Rightmove_Investment_Report.pdf)**
+📄 **[Read the full investment report](Rightmove_Investment_Report_pdf.pdf)**
 
 ## Analysis
 
